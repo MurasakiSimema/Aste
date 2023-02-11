@@ -1,0 +1,22 @@
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.exe.config
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.exe
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.pdb
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.csprojAssemblyReference.cache
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.Properties.Resources.resources
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.csproj.GenerateResource.cache
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.exe
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.pdb
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.FormModifica.resources
+E:\Desktop\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.Form1.resources
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.exe.config
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.exe
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\bin\Debug\BergonziVerifica.pdb
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.csprojAssemblyReference.cache
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.Form1.resources
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.FormEsporta.resources
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.FormModifica.resources
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.Properties.Resources.resources
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.csproj.GenerateResource.cache
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.csproj.CoreCompileInputs.cache
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.exe
+G:\Vecchia roba\VerificaBergonziDB\BergonziVerifica\BergonziVerifica\obj\Debug\BergonziVerifica.pdb
